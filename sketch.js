@@ -37,7 +37,7 @@ function setup() {
 
   let buttonLinks = [
     "", // Não há link para o primeiro botão
-    "https://www.faculdades.com.br",
+    "https://sky-1a-44918.github.io/22/",
     "https://www.salario.com.br",
     "https://www.vantagens.com.br",
     "https://www.desvantagens.com.br",
